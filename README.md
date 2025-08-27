@@ -17,7 +17,6 @@ The goal was to take raw **sales CSV data**, process it through a modern data pi
    - Created a **Copy Data Activity** pipeline:
      - **Source**: Blob Storage (CSV file).  
      - **Sink**: Azure SQL Database staging table.  
-   - Added an **Event-based Trigger** so whenever a new file is uploaded, the pipeline runs automatically.
 
 4. **Azure SQL Database**
    - Data copied into a **SalesStaging** table.  
