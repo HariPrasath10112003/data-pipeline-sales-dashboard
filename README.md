@@ -29,7 +29,9 @@ The goal was to take raw **sales CSV data**, process it through a modern data pi
      -  Sales Trend (Line Chart)  
      -  Sales by Store (Bar Chart)  
      -  Top 5 Products (Table)  
-     -  Monthly Revenue Summary  
+     -  Monthly Revenue Summary
+    
+## Successful Pipeline image
 
-![image alt]()
+![image alt](https://github.com/HariPrasath10112003/data-pipeline-sales-dashboard/blob/main/Screenshot%202025-08-27%20194915.png)
 
